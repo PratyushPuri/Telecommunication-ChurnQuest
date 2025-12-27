@@ -1,5 +1,7 @@
 # Telecommunication-ChurnQuest
 
+![Churn](http://raw.githubusercontent.com/PratyushPuri/Telecommunication-ChurnQuest/refs/heads/main/ChurnQuest%20Dash.png)
+
 ## 📊 Project Overview
 
 **ChurnQuest: Navigating the Waves of Customer Retention in Telecommunications**
