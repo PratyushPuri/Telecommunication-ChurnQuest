@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://cdn1.expresscomputer.in/wp-content/uploads/2020/02/20120612/New-Project-12-1.jpg" alt="drawing" width="500"/>
+<img src="bank.jpeg" alt="drawing" width="500"/>
 
 </div>
 
@@ -72,7 +72,7 @@ This interactive dashboard gives a clear view of customer loss, highlighting imp
 **Interactivity:**
 *   Use the **Churn (Yes/No) slicer** to filter the whole dashboard. You can view data only for churned customers to analyze their profile or for retained customers to understand what keeps them.
 
-![Churn](http://raw.githubusercontent.com/PratyushPuri/Telecommunication-ChurnQuest/refs/heads/main/ChurnQuest%20Dash.png)
+![Churn](ChurnQuest%20Dash.png)
 
 ## **How to Use the Dashboard**
 
